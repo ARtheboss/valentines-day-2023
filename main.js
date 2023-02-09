@@ -22,19 +22,19 @@ Botanic gardens - jan 29th
 const data = [
     {title: "Pimmy Roof", text: "The unlikeliest group of people hanging out together, where it all began.", image: null, date: new Date(2022, 10, 7)},
     {title: "Florance Shoots Her Shot", text: "Need me a girl that makes the first move.", image: "IMG_4218.jpg", date: new Date(2022, 10, 22)},
-    {title: "The First Walk", text: "Even after I brutally rejected Florance the first time, we do end up going on a walk together. I lean into her while walking. I don't know what this means.", image: "IMG_4220.jpg", date: new Date(2022, 11, 6)},
+    {title: "The First Walk", text: "Even after I brutally rejected Florance the first time, we do end up going on a walk together. To be honest, then, I didn't know what this meant.", image: "IMG_4220.jpg", date: new Date(2022, 11, 6)},
     {title: "The Big C Walk", text: "The first one was so good we had to do it again. This one's famous for the Florance ID card incident.", image: "IMG_8182.jpg", date: new Date(2022, 11, 11)},
-    {title: "The Firetrails Walk", text: "And then the third time round, I felt bold enough to I put my arm around her. She warmed my hands. It was nice. I knew then she liked me for sure.", image: "IMG_3665.jpg", date: new Date(2022, 11, 11)},
+    {title: "The Firetrails Walk", text: "And then the third time round, I felt bold enough to I put my arm around her. She warmed my hands. I knew then she liked me for sure.", image: "IMG_3665.JPG", date: new Date(2022, 11, 11)},
     {title: "The Room Visit", text: "Even though she was tired after her concert, she came to my room after. Even through some awkwardness, she stayed there till 4am, giving me some much appreciate company before my flight as well as some things to think about for the trip.", image: "IMG_4221.jpg", date: new Date(2022, 11, 19)},
     {title: "Toss", text: "The first time we hung out during the day. She felt brave and made a BeReal post.", image: "IMG_8879.jpg", date: new Date(2022, 11, 29)},
-    {title: "Winter Formal", text: "The most perfect night. 'Nuff said.", image: "IMG_3806.jpg", date: new Date(2022, 12, 4)},
+    {title: "Winter Formal", text: "The most perfect night. 'Nuff said.", image: "IMG_3806.JPG", date: new Date(2022, 12, 4)},
     {title: "The Bench", text: "She was leaving for a trip the next day, but safe to say, it did not stop us. We'd just broken a new barrier.", image: "IMG_4219.jpg", date: new Date(2022, 12, 5)},
-    {title: "The Picnic Blanket", text: "Not in public?? Some questionable decisions here, especially considering the fact that I was sick.", image: "IMG_3854.jpg", date: new Date(2022, 12, 10)},
+    {title: "The Picnic Blanket", text: "Not in public?? Some questionable decisions here, especially considering the fact that I was sick.", image: "IMG_3854.JPG", date: new Date(2022, 12, 10)},
     {title: "We Start Dating", text: "Finally", image: null, date: new Date(2022, 12, 16)},
-    {title: "Back in Berkeley", text: "After a painful month apart, we're finally reunited.", image: "IMG_4032.jpg", date: new Date(2023, 1, 15)},
+    {title: "Back in Berkeley", text: "After a painful month apart, we're finally reunited.", image: "IMG_4032.JPG", date: new Date(2023, 1, 15)},
     {title: "My Birthday", text: "She makes me feel really special.", image: "IMG_2770.jpg", date: new Date(2023, 1, 24)},
     {title: "Pimmy Roof 2", text: "After a Foothill dinner, we revisit where it all started.", image: "IMG_2891.jpg", date: new Date(2023, 1, 26)},
-    {title: "Botanic Gardens", text: "Ignoring a brief ZipCar-related heart attack, the cutest date we've been on. Also got our best picture together.", image: "IMG_4141.jpg", date: new Date(2023, 1, 29)},
+    {title: "Botanic Gardens", text: "Ignoring a brief ZipCar-related heart attack, the cutest date we've been on. Also got our best picture together.", image: "IMG_4141.JPG", date: new Date(2023, 1, 29)},
 ]
 
 var itemdata = [];
