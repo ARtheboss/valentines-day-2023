@@ -124,7 +124,25 @@ body{
     font-family: 'Pacifico';
     color: #8633de;
     font-size: 14vw;
+    text-shadow: -2px 2px 0 white,
+				  2px 2px 0 white,
+                  -2px -2px 0 white,
+				 2px -2px 0 white;
+    animation-name: text-outline;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
 }
+@keyframes text-outline {
+    0%   {
+        text-shadow: -2px 2px 0 white,
+				  2px 2px 0 white,
+                  -2px -2px 0 white,
+				 2px -2px 0 white;
+    }
+    50%  {
+        text-shadow: none;
+    }
+  }
 #how{
     top: 8vh;
     left: 8vw;
