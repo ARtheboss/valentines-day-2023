@@ -52,6 +52,7 @@ const data = [
     {title: "The Hard Launch", text: "Florance makes a post with me. She insists it's a soft launch. But I know better.", image: "IMG_82AAC8A475E3-1.jpeg", date: new Date(2023, 1, 17)},
     {title: "That Day", text: "We skip all classes on a Friday and do everything our heart desires ;)", image: "IMG_4468.JPG", date: new Date(2023, 2, 10)},
     {title: "Gym Day!", text: "I force her to go to the gym for the first time. Health is wealth.", image: "IMG_48DC9A002523-1.jpeg", date: new Date(2023, 2, 15)},
+    {title: "I <3 U", text: "She tells me she loves me. I tell her I love her.", image: "ILoveYou.png", date: new Date(2023, 2, 22)},
     {title: "Double Date", text: "We go on a double date with Chris and Cat. Pretty fun. Stuff feels pretty official at this point.", image: "IMG_4517.JPG", date: new Date(2023, 3, 18)},
     {title: "Her Birthday", text: "I plan the best birthday suprise ever.", image: "IMG_5134.jpg", date: new Date(2023, 3, 4)},
     {title: "Beach Time", text: "With some of my friends, we all go to the beach together. It's a lot of fun. Very romantic. We do a little roleplay.", image: "IMG_5471.jpg", date: new Date(2023, 3, 15)},
