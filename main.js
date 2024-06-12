@@ -62,6 +62,20 @@ const data = [
     {title: "Move Out", text: "Sad moment. Our time with the dorms, where we our relationship begun, comes to an end.", image: "P1400032.jpg", date: new Date(2023, 4, 12)},
     {title: "Monday = Funday", text: "I drive all the way down to Los Gatos to see her. We spend a great couple of hours together.", image: "P1400201.jpg", date: new Date(2023, 4, 15)},
     {title: "Goodbye Before Summer", text: "We spend the most perfect day together, one last time before we separate for three months. And lower our rice purity score quite a bit.", image: "IMG_7022.jpg", date: new Date(2023, 4, 22)},
+    {title: "Half Year!", text: "Though we're not physically together, we spend a day thinking about our lovely half year together. She makes a beautiful video.", image: "HalfYear.PNG", date: new Date(2023, 5, 16)},
+    {title: "Reunited After Soooo Long", text: "End of our forced separation. To new beginnings.", image: "reunited.JPG", date: new Date(2023, 7, 17)},
+    {title: "Curiosity Shop", text: "I buy her some curious little necklaces.", image: "IMG_5901.JPG", date: new Date(2023, 8, 2)},
+    {title: "3/4 Year", text: "Another big milestone. We take a day out to SF for a nice picnic and draw each other.", image: "IMG_6038.JPG", date: new Date(2023, 8, 16)},
+    {title: "Alameda Antiques Fair", text: "Triple date?? Fun little outing. I get the purple Hardrock sweater on her advice.", image: "IMG_6114.JPG", date: new Date(2023, 9, 1)},
+    {title: "Yosemite", text: "Drive. Hotels. Hikes. We felt it in our fingers through it all.", image: "IMG_6385.JPG", date: new Date(2023, 10, 20)},
+    {title: "One Year", text: "Eat the yummiest food with the best company. We give each other wonderful gifts.", image: "IMG_6571.JPG", date: new Date(2023, 11, 8)},
+    {title: "My 20th", text: "She gives me one of the coolest gifts I've ever gotten.", image: "IMG_6732.JPG", date: new Date(2024, 0, 24)},
+    {title: "Documentary Premiere", text: "Another super cute and super fun day trip to SF. We do this a lot, don't we?", image: "IMG_6778.JPG", date: new Date(2024, 1, 3)},
+    {title: "Valentine's Day", text: "Our second valentines day together. Time passes fast when you're having fun.", image: "IMG_1302.JPG", date: new Date(2024, 1, 14)},
+    {title: "Valentine's Day Party", text: "Here just because she liked this picture and couldn't post it. And we got drunk together.", image: "IMG_1331.JPG", date: new Date(2024, 1, 16)},
+    {title: "Her 20th", text: "Kahoot!", image: "P1360545.JPG", date: new Date(2024, 3, 4)},
+    {title: "A Party", text: "Pictured talking over a wonderful year and planning an even better summer together.", image: "IMG_5437.JPG", date: new Date(2024, 4, 3)},
+
 ]
 
 var itemdata = [];
