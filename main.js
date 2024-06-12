@@ -74,7 +74,7 @@ const data = [
     {title: "Valentine's Day", text: "Our second valentines day together. Time passes fast when you're having fun.", image: "IMG_1302.JPG", date: new Date(2024, 1, 14)},
     {title: "Valentine's Day Party", text: "Here just because she liked this picture and couldn't post it. And we got drunk together.", image: "IMG_1331.JPG", date: new Date(2024, 1, 16)},
     {title: "Her 20th", text: "Kahoot!", image: "P1360545.JPG", date: new Date(2024, 3, 4)},
-    {title: "A Party", text: "Pictured talking over a wonderful year and planning an even better summer together.", image: "IMG_5437.JPG", date: new Date(2024, 4, 3)},
+    {title: "A Party", text: "Pictured talking over a wonderful year and planning an even better summer together.", image: "IMG_5473.JPG", date: new Date(2024, 4, 3)},
 
 ]
 
